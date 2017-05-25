@@ -1,0 +1,7 @@
+[0525/101456.785:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0525/101457.541:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+[0525/101457.546:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+[0525/101457.563:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+[0525/101457.565:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+[0525/101457.566:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+[0525/101457.566:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
